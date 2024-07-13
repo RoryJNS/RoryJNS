@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Rory.</h1>
-<h4 align="center">Currently studying Computer Science at the University of Birmingham.</h4>
+<h3 align="center">Currently studying Computer Science at the University of Birmingham.</h3>
 
 - 👀 I’m interested in API integration, machine learning algorithms, VFX and games programming.
 - 🌱 I’m currently learning **GDScript/Godot and C++**.
