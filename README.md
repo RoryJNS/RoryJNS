@@ -19,7 +19,15 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
   </a>
-
+  <a href="https://unity.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://angular.dev" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node JS" width="40" height="40"/>
+  </a>
 <!---
 RoryJNS/RoryJNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
