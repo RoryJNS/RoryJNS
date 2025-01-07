@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I’m Rory.</h1>
 <h3 align="center">Currently studying Computer Science at the University of Birmingham.</h3>
 
-- 👀 I’m interested in API integration, machine learning algorithms, VFX and games programming.
-- 🌱 I’m currently learning **GDScript/Godot and C++**.
+- 👀 I’m interested in games programming, machine learning and API integration.
 - 📫 How to reach me: roryjns123@gmail.com
 
 <h3 align="left">Connect with me:</h3>
